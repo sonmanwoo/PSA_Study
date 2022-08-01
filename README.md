@@ -1,6 +1,6 @@
 # PSA_Study
 
-# This code is supporting information from the published article, "Computational-cost-efficient surrogate model of vacuum pressure swing adsorption for CO separation process optimization" Separation and Purification Technology.
+# This code is supporting information from the published article, "Computational-cost-efficient surrogate model of vacuum pressure swing adsorption for CO separation process optimization" Separation and Purification Technology (2022).
 # DOI: https://doi.org/10.1016/j.seppur.2022.121827
 
 # The code was implemented in Python Environment 3.7.9 using two library packages: PyCaret, and Optuna.
