@@ -11,4 +11,4 @@
 
 # If you have further questions or discussion on the work, please contact the below two first co-authors:
 # - Jinsu Kim <jinsukim1102@postech.ac.kr>
-# - Manwoo Son <mana_v@naver.com>
+# - Manwoo Son <manwooson@gscaltex.com>
